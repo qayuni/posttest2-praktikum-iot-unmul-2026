@@ -1,4 +1,4 @@
-# posttest2-praktikum-iot-unmul-2026
+# Posttest2 Praktikum IOT Unmul 2026
 # 🏠 Smart Kos Monitoring & Control Berbasis IoT dan Telegram Bot
 
 ## 👥 Nama dan NIM Anggota Kelompok
